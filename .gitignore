@@ -2,3 +2,5 @@
 catVSdog/data/
 XrayCNN/data/
 XrayCNN/test_data/
+FlowerClassificationCNN/flower_photos
+SimpleRNNStockMarket/data
