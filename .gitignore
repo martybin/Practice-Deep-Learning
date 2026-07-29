@@ -4,3 +4,11 @@ XrayCNN/data/
 XrayCNN/test_data/
 FlowerClassificationCNN/flower_photos
 SimpleRNNStockMarket/data
+MNIST/data
+fashionmnist/data
+
+# Models
+MNIST/model
+catVSdog/model
+fashionmnist/model
+FlowerClassificationCNN/model
