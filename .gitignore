@@ -6,9 +6,12 @@ FlowerClassificationCNN/flower_photos
 SimpleRNNStockMarket/data
 MNIST/data
 fashionmnist/data
+PolarityDetection/data
+HeartDisease/data
 
 # Models
 MNIST/model
 catVSdog/model
 fashionmnist/model
 FlowerClassificationCNN/model
+PolarityDetection/model
