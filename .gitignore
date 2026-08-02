@@ -8,6 +8,7 @@ MNIST/data
 fashionmnist/data
 PolarityDetection/data
 HeartDisease/data
+HousePricePrediction/data
 
 # Models
 MNIST/model
@@ -15,3 +16,4 @@ catVSdog/model
 fashionmnist/model
 FlowerClassificationCNN/model
 PolarityDetection/model
+HousePricePrediction/model
