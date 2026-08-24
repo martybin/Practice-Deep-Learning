@@ -9,6 +9,7 @@ fashionmnist/data
 PolarityDetection/data
 HeartDisease/data
 HousePricePrediction/data
+SpamDetection/data
 
 # Models
 MNIST/model
